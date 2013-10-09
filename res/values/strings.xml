@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Friendly Tip Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_total_amount">Enter total amount:</string>
+    <string name="enter_tip_percent">Enter tip percentage:</string>
+    <string name="ten_percent">10%</string>
+    <string name="fifteen_percent">15%</string>
+    <string name="twenty_percent">20%</string>
+    <string name="other_percent">Other</string>
+    <string name="enter_amount_prompt">Enter bill amount!</string>
+    <string name="amount_to_tip">Amount to tip:</string>
+    <string name="enter_custom_tip_percent">Enter custom tip:</string>
+
+</resources>
